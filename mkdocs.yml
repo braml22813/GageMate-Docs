@@ -39,3 +39,6 @@ nav:
   - Getting Started: getting-started.md
   - Troubleshooting: troubleshooting.md
   - Licensing & Disclaimers: licensing.md
+plugins:
+  - search
+  - glightbox

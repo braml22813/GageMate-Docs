@@ -13,7 +13,7 @@ Read [System Requirements](system-requirements.md) and [Corporate IT & Security]
 3. Expand **Assets** and download the Windows setup executable, not the source-code ZIP archives.
 4. Save it to a known location, such as Downloads.
 
-![GageMate Installation Wizard](images/github-releases.png){ width="650" align="center" }
+![GageMate Installation Wizard](images/github-releases.png){ .doc-screenshot }
 
 ## 3. Verify the download
 
@@ -29,23 +29,23 @@ Compare the resulting hash with the value published through the official release
 
 Windows may show a SmartScreen or unrecognized-publisher warning, especially if the installer is unsigned or has limited reputation. Verify the release source and contact IT if you are on a managed computer. **Do not disable security tools or bypass organizational policy.**
 
-![GageMate Installation Wizard](images/smartscreen.png){ width="650" align="center" }
+![GageMate Installation Wizard](images/smartscreen.png){ .doc-screenshot }
 
 ## 5. Run the installer
 
 1. Launch the downloaded setup executable if your organization's policy permits it.
 2. Read and accept the EULA only if you agree to its terms.
-![GageMate Installation Wizard](images/installer-license.png){ width="650" align="center" }
+![GageMate Installation Wizard](images/installer-license.png){ .doc-screenshot }
 3. Confirm the destination directory and proceed through the Setup wizard.
-![GageMate Installation Wizard](images/destination-location.png){ width="650" align="center" }
+![GageMate Installation Wizard](images/destination-location.png){ .doc-screenshot }
 4. Wait for installation to finish.
-![GageMate Installation Wizard](images/install-complete.png){ width="650" align="center" }
+![GageMate Installation Wizard](images/install-complete.png){ .doc-screenshot }
 
 ## 6. Launch GageMate
 
 Open GageMate from the Windows Start menu or installed shortcut. Confirm the version shown by the application and load a non-sensitive sample CSV to test the interface.
 
-![GageMate Installation Wizard](images/GageMate-main.png){ width="650" align="center" }
+![GageMate Installation Wizard](images/GageMate-main.png){ .doc-screenshot }
 
 ## 7. Need help?
 
