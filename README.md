@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# GageMate-Docs
-Documentation Hub for GageMate Software
-=======
 # GageMate Documentation
 
 Public documentation website for GageMate, built with MkDocs Material and deployed to GitHub Pages.
@@ -31,4 +27,3 @@ py -m mkdocs build --strict
 ```
 
 Review placeholders and verify all security, system-requirement, and support claims before making the site public.
->>>>>>> ae43522 (Initial GageMate documentation site)

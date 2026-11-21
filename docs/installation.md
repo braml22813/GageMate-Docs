@@ -29,7 +29,7 @@ Compare the resulting hash with the value published through the official release
 
 Windows may show a SmartScreen or unrecognized-publisher warning, especially if the installer is unsigned or has limited reputation. Verify the release source and contact IT if you are on a managed computer. **Do not disable security tools or bypass organizational policy.**
 
-**Screenshot needed:** `images/smart-screen.png` — use a genuine warning capture if one occurs.
+**Screenshot needed:** `images/smartscreen.png` — use a genuine warning capture if one occurs.
 
 ## 5. Run the installer
 
@@ -38,13 +38,13 @@ Windows may show a SmartScreen or unrecognized-publisher warning, especially if 
 3. Confirm the destination directory and proceed through the Inno Setup wizard.
 4. Wait for installation to finish.
 
-**Screenshots needed:** `images/installer-welcome.png`, `images/installer-license.png`, `images/installer-complete.png`.
+**Screenshots needed:** `images/github-releases.png`, `images/installer-license.png`, `images/destination-location.png`, `images/install-complete.png`.
 
 ## 6. Launch GageMate
 
 Open GageMate from the Windows Start menu or installed shortcut. Confirm the version shown by the application and load a non-sensitive sample CSV to test the interface.
 
-**Screenshot needed:** `images/gagemate-main.png`.
+**Screenshot needed:** `images/GageMate-main.png`.
 
 ## 7. Need help?
 
