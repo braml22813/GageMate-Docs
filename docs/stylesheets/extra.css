@@ -1,5 +1,5 @@
-:root { --md-primary-fg-color: #388152; --md-accent-fg-color: #388152; }
-[data-md-color-scheme="slate"] { --md-primary-fg-color: #388152; --md-accent-fg-color: #6cbd8a; }
+:root { --md-primary-fg-color: #0035DE; --md-accent-fg-color: #348cf0; }
+[data-md-color-scheme="slate"] { --md-primary-fg-color: #315ae2; --md-accent-fg-color: #348cf0; }
 
 /* GageMate documentation screenshots */
 .doc-screenshot {
