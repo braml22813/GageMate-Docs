@@ -19,4 +19,5 @@
 - SPC Charts
 - Curve Fit
 
-**Screenshots to add:** CSV import, analysis configuration dialog, example charts, and results report.
+Please see full video demonstrations for all test modules here: 
+https://www.youtube.com/playlist?list=PLScm9tk2Fvpc
