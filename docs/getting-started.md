@@ -20,4 +20,4 @@
 - Curve Fit
 
 Please see full video demonstrations for all test modules here: 
-https://www.youtube.com/playlist?list=PLScm9tk2Fvpc
+[Text to Display](https://www.youtube.com/playlist?list=PLScm9tk2Fvpc)
